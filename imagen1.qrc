@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct1">
+    <file>escenario1.png</file>
+  </qresource>
+</RCC>
